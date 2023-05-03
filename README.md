@@ -1,4 +1,4 @@
-![Kabood Logo Secondary](https://github.com/Kabood-io/github/blob/main/Kabood_Logo.png?raw=true)
+![Kabood Logo Secondary](https://github.com/Kabood-io/.github/blob/main/Kabood_Logo.png?raw=true)
 
 # Optimise your brand with ease.
 
